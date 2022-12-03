@@ -4,3 +4,6 @@ U-Net is an architecture for semantic segmentation. It consists of a contracting
 
 
 <img width="750" alt="Screen_Shot_2020-07-07_at_9 08 00_PM_rpNArED" src="https://user-images.githubusercontent.com/99510125/205461264-c7a0d469-ace4-40e5-9bbf-89114c6d2e6b.png">
+
+
+For more information : https://www.linkedin.com/pulse/u-net-from-scratch-using-keras-api-ayoub-kirouane
